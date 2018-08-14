@@ -1,2 +1,0 @@
-D:\Michael\My Projects\IQBusiness\MicroServices\MicroServicesUnitTest\obj\Debug\MicroServicesUnitTest.csprojAssemblyReference.cache
-D:\Michael\My Projects\IQBusiness\MicroServices\MicroServicesUnitTest\obj\Debug\MicroServicesUnitTest.csproj.CoreCompileInputs.cache
