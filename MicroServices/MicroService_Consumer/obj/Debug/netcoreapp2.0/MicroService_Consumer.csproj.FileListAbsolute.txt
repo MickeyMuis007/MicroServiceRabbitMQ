@@ -1,0 +1,14 @@
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\bin\Debug\netcoreapp2.0\MicroService_Consumer.deps.json
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\bin\Debug\netcoreapp2.0\MicroService_Consumer.runtimeconfig.json
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\bin\Debug\netcoreapp2.0\MicroService_Consumer.runtimeconfig.dev.json
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\bin\Debug\netcoreapp2.0\MicroService_Consumer.dll
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\bin\Debug\netcoreapp2.0\MicroService_Consumer.pdb
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\bin\Debug\netcoreapp2.0\RabbitMQ.Client.dll
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\bin\Debug\netcoreapp2.0\RabbitMQ.Client.xml
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\obj\Debug\netcoreapp2.0\MicroService_Consumer.csprojAssemblyReference.cache
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\obj\Debug\netcoreapp2.0\MicroService_Consumer.csproj.CoreCompileInputs.cache
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\obj\Debug\netcoreapp2.0\MicroService_Consumer.AssemblyInfoInputs.cache
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\obj\Debug\netcoreapp2.0\MicroService_Consumer.AssemblyInfo.cs
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\obj\Debug\netcoreapp2.0\MicroService_Consumer.csproj.CopyComplete
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\obj\Debug\netcoreapp2.0\MicroService_Consumer.dll
+D:\Michael\My Projects\IQBusiness\MicroServices\MicroService_Consumer\obj\Debug\netcoreapp2.0\MicroService_Consumer.pdb
