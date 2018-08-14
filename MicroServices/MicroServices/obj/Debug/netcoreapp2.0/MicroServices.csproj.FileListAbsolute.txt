@@ -12,3 +12,14 @@ D:\Michael\My Projects\IQBusiness\MicroServices\MicroServices\obj\Debug\netcorea
 D:\Michael\My Projects\IQBusiness\MicroServices\MicroServices\obj\Debug\netcoreapp2.0\MicroServices.pdb
 D:\Michael\My Projects\IQBusiness\MicroServices\MicroServices\bin\Debug\netcoreapp2.0\MicroServices.pdb
 D:\Michael\My Projects\IQBusiness\MicroServices\MicroServices\obj\Debug\netcoreapp2.0\MicroServices.csprojAssemblyReference.cache
+D:\Michael\My Projects\IQBusiness\MicroServiceRabbitMQ\MicroServices\MicroServices\obj\Debug\netcoreapp2.0\MicroServices.csprojAssemblyReference.cache
+D:\Michael\My Projects\IQBusiness\MicroServiceRabbitMQ\MicroServices\MicroServices\obj\Debug\netcoreapp2.0\MicroServices.csproj.CoreCompileInputs.cache
+D:\Michael\My Projects\IQBusiness\MicroServiceRabbitMQ\MicroServices\MicroServices\obj\Debug\netcoreapp2.0\MicroServices.AssemblyInfoInputs.cache
+D:\Michael\My Projects\IQBusiness\MicroServiceRabbitMQ\MicroServices\MicroServices\obj\Debug\netcoreapp2.0\MicroServices.AssemblyInfo.cs
+D:\Michael\My Projects\IQBusiness\MicroServiceRabbitMQ\MicroServices\MicroServices\obj\Debug\netcoreapp2.0\MicroServices.dll
+D:\Michael\My Projects\IQBusiness\MicroServiceRabbitMQ\MicroServices\MicroServices\obj\Debug\netcoreapp2.0\MicroServices.pdb
+D:\Michael\My Projects\IQBusiness\MicroServiceRabbitMQ\MicroServices\MicroServices\bin\Debug\netcoreapp2.0\MicroServices.deps.json
+D:\Michael\My Projects\IQBusiness\MicroServiceRabbitMQ\MicroServices\MicroServices\bin\Debug\netcoreapp2.0\MicroServices.runtimeconfig.json
+D:\Michael\My Projects\IQBusiness\MicroServiceRabbitMQ\MicroServices\MicroServices\bin\Debug\netcoreapp2.0\MicroServices.runtimeconfig.dev.json
+D:\Michael\My Projects\IQBusiness\MicroServiceRabbitMQ\MicroServices\MicroServices\bin\Debug\netcoreapp2.0\MicroServices.dll
+D:\Michael\My Projects\IQBusiness\MicroServiceRabbitMQ\MicroServices\MicroServices\bin\Debug\netcoreapp2.0\MicroServices.pdb
